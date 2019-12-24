@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ArouterApplication</string>
+    <string name="main_name">主界面</string>
+    <string name="frist_name">第一个Activity</string>
+</resources>
